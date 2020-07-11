@@ -1,2 +1,1 @@
-# buzzer
-Discord Bot for virtual buzzer
+# Virtual Discord Buzzer
